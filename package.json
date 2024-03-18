@@ -1,0 +1,9 @@
+{
+  "name": "renovate-bun-workspaces",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "b": "*"
+  }
+}
