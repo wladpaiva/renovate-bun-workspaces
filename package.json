@@ -4,6 +4,7 @@
     "packages/*"
   ],
   "dependencies": {
-    "b": "*"
+    "b": "*",
+    "eslint": "^8.0.0"
   }
 }
